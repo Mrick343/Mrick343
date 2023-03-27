@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrick343&label=Profile%20views&color=613583&style=plastic" alt="mrick343" /> </p>
 
-- 🌱 I’m currently learningon **AOSP and Cybersecurity related stuff**
+- 🌱 I’m currently learning **AOSP and Cybersecurity related stuff**
 
 - 👯 I’m looking to collaborate on **Anyproject related to cybersecurity**
 
