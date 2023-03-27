@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AOSP and Cybersecurity related stuff**
 
-- 👯 I’m looking to collaborate on **Anyproject related to cybersecurity**
+- 👯 I’m looking to collaborate on **Any project related to cybersecurity**
 
 - 💬 Ask me about **AOSP Cybersecurity Tech**
 
